@@ -1,0 +1,6 @@
+[submodule "my-laravel-app"]
+	path = my-laravel-app
+	url = https://github.com/RynardArch/Dev-Test-Medium.git
+[submodule "my-vue-project"]
+	path = my-vue-project
+	url = https://github.com/RynardArch/Dev-Test-Medium.git
