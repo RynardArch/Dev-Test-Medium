@@ -5,10 +5,10 @@ use Illuminate\Database\Eloquent\Model;
 
 class Car extends Model
 {
-    // Define the table if it’s not following Laravel’s convention
+    // Specify the table name if not following Laravel's convention
     protected $table = 'cars';
 
-    // Define the fillable fields
+    // Define which attributes are mass assignable
     protected $fillable = [
         'friend_name',
         'car_type',
